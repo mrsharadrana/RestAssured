@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3952" started-at="2020-12-07T21:51:32 IST" finished-at="2020-12-07T21:51:36 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3952" started-at="2020-12-07T21:51:32 IST" finished-at="2020-12-07T21:51:36 IST">
+      <class name="restApiTestScripts.DeleteMethod">
+        <test-method status="PASS" signature="DeleteDemo()[pri:0, instance:restApiTestScripts.DeleteMethod@67205a84]" name="DeleteDemo" duration-ms="3871" started-at="2020-12-07T21:51:32 IST" finished-at="2020-12-07T21:51:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteDemo -->
+      </class> <!-- restApiTestScripts.DeleteMethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
