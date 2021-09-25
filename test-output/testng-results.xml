@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3952" started-at="2020-12-07T21:51:32 IST" finished-at="2020-12-07T21:51:36 IST">
+  <suite started-at="2021-01-22T14:03:28 IST" name="Default suite" finished-at="2021-01-22T14:03:30 IST" duration-ms="2549">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3952" started-at="2020-12-07T21:51:32 IST" finished-at="2020-12-07T21:51:36 IST">
-      <class name="restApiTestScripts.DeleteMethod">
-        <test-method status="PASS" signature="DeleteDemo()[pri:0, instance:restApiTestScripts.DeleteMethod@67205a84]" name="DeleteDemo" duration-ms="3871" started-at="2020-12-07T21:51:32 IST" finished-at="2020-12-07T21:51:36 IST">
+    <test started-at="2021-01-22T14:03:28 IST" name="Default test" finished-at="2021-01-22T14:03:30 IST" duration-ms="2549">
+      <class name="bestBuyAPITestScripts.GetProductNameDescription">
+        <test-method signature="GetProductNameAndDescription()[pri:0, instance:bestBuyAPITestScripts.GetProductNameDescription@1018bde2]" started-at="2021-01-22T14:03:28 IST" name="GetProductNameAndDescription" finished-at="2021-01-22T14:03:30 IST" duration-ms="2481" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- DeleteDemo -->
-      </class> <!-- restApiTestScripts.DeleteMethod -->
+        </test-method> <!-- GetProductNameAndDescription -->
+      </class> <!-- bestBuyAPITestScripts.GetProductNameDescription -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
